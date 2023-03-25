@@ -39,4 +39,4 @@ jobs:
           app-name: 'Connectvnetmij'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9FFAD26B7A934508A58BE4E8C524996D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_22EAAF0CAB7145F39814162BF171438A }}
